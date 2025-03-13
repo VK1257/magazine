@@ -407,7 +407,7 @@ address                         { font-style: italic; }
     position: absolute;
     right: 0px;
     bottom: 0px;
-    border-bottom: 100px solid #ffdc11;
+    border-bottom: 100px solid #2e4e8f;
     border-left: 960px solid transparent;
     z-index: 999;
     opacity: 0.70;
@@ -417,7 +417,7 @@ address                         { font-style: italic; }
     position: absolute;
     left: 0px;
     bottom: 0px;
-    border-bottom: 100px solid #ffdc11;
+    border-bottom: 100px solid #2e4e8f;
     border-right: 960px solid transparent;
     z-index: 999;
     opacity: 0.70;
