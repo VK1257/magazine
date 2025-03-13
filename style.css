@@ -3769,21 +3769,21 @@ blockquote:after {
     float: left;
     width: 31px;
     height: 31px;
-    background-color: #ffdc11;
+    background-color: #2e4e8f;
     color: #333;
     margin: 0px 10px 20px 0px;
     font-size: 16px;
     text-align: center;
     padding-top: 8px;
     position: relative;
-    color:white;
+    color: white;
 }
 .widget_about_info_social a:after {
     content: '';
     position: absolute;
     left: 0px;
     bottom: -10px;
-    border-top: 10px solid #ffdc11;
+    border-top: 10px solid #2e4e8f;
     border-right: 30px solid transparent;
 }
 /*Flicker Images*/
