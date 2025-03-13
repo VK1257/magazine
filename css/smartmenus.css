@@ -293,7 +293,7 @@
     .sm-blue a:active,
     .sm-blue a.highlighted,
     .sm-blue > li.active > a {
-        color: #ffdc11;
+        color: #2e4e8f;
     }
     .sm-blue a.current {
         color: #ffdc11;
