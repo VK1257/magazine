@@ -3686,7 +3686,7 @@ blockquote:after {
     position: absolute;
     left: 0px;
     bottom: -10px;
-    border-top: 10px solid #ffdc11;
+    border-top: 10px solid #2e4e8f;
     border-right: 40px solid transparent;
 }
 .widget_about_info ul li i {
