@@ -320,10 +320,24 @@ address                         { font-style: italic; }
     margin: 10px 0px 0px -120px;
        
 }
-@media screen and (max-width: 768px){
+@media screen and (max-width: 1024px){
 .ritekhela-logo {
     float: left;
     margin: 10px 0px 0px -80px;
+       
+ }
+}
+@media screen and (max-width: 768px){
+.ritekhela-logo {
+    float: left;
+    margin: 10px 0px 0px -70px;
+       
+ }
+}
+@media screen and (max-width: 425px){
+.ritekhela-logo {
+    float: left;
+    margin: 10px 0px 0px -90px;
        
  }
 }
