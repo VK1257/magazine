@@ -151,21 +151,3 @@
 
 
 
-@media screen and (max-width: 992px) {
-  .where-champions{
-    margin-top:100px;
-  }
-}
-
-/* On screens that are 600px wide or less, the background color is olive */
-@media screen and (max-width: 600px) {
-  .where-champions {
-    margin-top:10px;
-  }
-}
-
-@media screen and (min-width: 991px) and (max-width: 1054px) {
-	.where-champions {
-    margin-top:100px;
-  }
-}
