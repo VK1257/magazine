@@ -163,3 +163,9 @@
     margin-top:10px;
   }
 }
+
+@media screen and (min-width: 991px) and (max-width: 1054px) {
+	.where-champions {
+    margin-top:80px;
+  }
+}
