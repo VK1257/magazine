@@ -314,6 +314,7 @@ address                         { font-style: italic; }
     width: 100%;
     padding: 0px 0px;
     border-top: 1px solid rgba(255,255,255,0.10);
+    background-color:#2e4e8f;
 }
 .ritekhela-logo {
     float: left;
