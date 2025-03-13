@@ -474,6 +474,9 @@ address                         { font-style: italic; }
     line-height: 1.2;
     text-transform: capitalize;
 }
+
+.ritekhela-banner-caption h1 .where-champions{  margin-top:10%;   )
+
 .ritekhela-banner-caption p {
     display: inline-block;
     width: 70%;
