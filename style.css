@@ -3680,6 +3680,7 @@ blockquote:after {
     margin-bottom: 22px;
     line-height: 2.7;
     position: relative;
+    color:white;
 }
 .widget_about_info ul li:before {
     content: '';
@@ -3696,6 +3697,7 @@ blockquote:after {
     border-right: 1px solid rgba(0,0,0,0.25);
     margin-right: 15px;
     width: 40px;
+    color:white;
 }
 /* Footer Widget Title */
 .footer_widget_title {
@@ -3774,6 +3776,7 @@ blockquote:after {
     text-align: center;
     padding-top: 8px;
     position: relative;
+    color:white;
 }
 .widget_about_info_social a:after {
     content: '';
