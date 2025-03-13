@@ -1502,7 +1502,7 @@ readers do not read off random characters that represent icons */
 .fa-fast-forward:before {
   content: "\f050"; }
 
-.fa-fax:before {
+.fa-youtube-play:before {
   content: "\f1ac"; }
 
 .fa-feather:before {
