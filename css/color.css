@@ -5,6 +5,9 @@ li:hover .ritekhela-team-view1-text h2 a,.ritekhela-latest-result-list figcaptio
 li:hover .ritekhela-blog-view3-text h2 a,.ritekhela-team-view2-btn,.ritekhela-parallax-view1 a {
     color: #2e4e8f;
 }
+.ritekhela-banner-btn { color:white;
+		       border-color: white;
+		      }
 
 .ritekhela-bgcolor,.ritekhela-bgcolorhover:hover,.ritekhela-fixture-slider .slick-arrow:hover,.ritekhela-blog-view1 figure > a:before,
 .popular_news_text small,.widget_popular_news ul li span,.widget_match_btn,.widget_next_match_title,.widget_next_match_option,
