@@ -1354,12 +1354,14 @@ address                         { font-style: italic; }
     bottom: 0px;
     width: 100%;
 }
+/*
 .ritekhela-gallery-view1 figcaption span {
     display: inline-block;
     color: #ffffff;
     padding: 8px 15px;
     line-height: 1.2;
 }
+*/
 .ritekhela-gallery-view1 h2 {
     float: left;
     width: 100%;
